@@ -52,7 +52,7 @@ if not CheckUserID() then
     local kickTitle = Instance.new("TextLabel", kickFrame)
     kickTitle.Size = UDim2.new(1, 0, 0.4, 0)
     kickTitle.Position = UDim2.new(0, 0, 0, 0)
-    kickTitle.Text = "⛔ تواصل مع سيزو ⛔"
+    kickTitle.Text = "⛔ تواصل مع ماركو⛔"
     kickTitle.TextColor3 = Color3.fromRGB(255, 0, 0)
     kickTitle.BackgroundTransparency = 1
     kickTitle.TextScaled = true
